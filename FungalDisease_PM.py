@@ -36,6 +36,6 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 
 # OUTPUT TO FILE
-with open('predictions_hw3p3.txt', 'w') as f:
+with open('Predictions_FungalDisease.txt', 'w') as f:
     for pred in y_pred:
         f.write(f"{int(pred)}\n")
