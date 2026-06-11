@@ -59,4 +59,4 @@ The predictive model can be adapted for:
 
 ## Research Purposes
 
-This project is designed for research purposes only. Penn State University (PSU), IST 557 Data Mining. Fall 2025.
+This project is designed for research purposes only. The repository includes dummy datasets for demonstration purposes. Penn State University (PSU), IST 557 Data Mining. Fall 2025.
