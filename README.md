@@ -1,6 +1,6 @@
-# PSUTreesFD_PredictiveModel
+# Trees Fungal Disease Predictive Model
 
-This project implements a predictive model for fungal disease classification in Penn State University (PSU) trees using machine learning techniques. The model is trained on tree feature data and uses a Histogram-based Gradient Boosting classifier to predict disease presence. It was developed as part of the IST 557 Data Mining coursework at Penn State University for the Fall 2025 semester.
+This project implements a predictive model for fungal disease classification in Penn State University (PSU) trees using machine learning techniques. The model is trained on tree feature data and uses a Histogram-based Gradient Boosting classifier to predict disease presence.
 
 ## Capabilities
 
